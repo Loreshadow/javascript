@@ -1,4 +1,4 @@
-let b = '12'
-let c = '5'
+let b = '24'
+let c = '14'
 let a = Math.sqrt (b * b + c * c)
 console.log("la valeur est", a)
