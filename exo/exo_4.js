@@ -1,9 +1,7 @@
-
 for (let i = 1; i <= 25; i++) {
-    let num2 = "";
+    let line = "";
     for (let j = 1; j <= i; j++) {
-        num2 += j + " ";
+        line += j + " ";
     }
-    
-    console.log(num2);
+    console.log(line);
 }
